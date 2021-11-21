@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+class MyClass {
+  const MY_CONSTANT = 5;
+}
+
+echo MyClass::MY_CONSTANT;
+?>
+
+</body>
+</html>
+
+
+
+
+
